@@ -172,7 +172,7 @@ namespace MonitorCierre
         } 
         #endregion
         
-        #region dto, enum
+        #region dto, enum 
         public class CentroCierre
         {
             public string Centro { get; set; } = null!;
